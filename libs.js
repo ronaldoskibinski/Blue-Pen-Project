@@ -12,7 +12,6 @@ export const CriarArray = (...valores) => {
 
 
 export const MeEntregaEla = (data = [], op,compara=null) => {
-
     let resultado = null;
     switch (op) {
         case "menor":
