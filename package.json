@@ -1,7 +1,6 @@
 {
   "name": "bluepen",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -10,5 +9,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoStadler/Blue-Pen-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandoStadler/Blue-Pen-Project/issues"
+  },
+  "homepage": "https://github.com/fernandoStadler/Blue-Pen-Project#readme",
+  "description": ""
 }
