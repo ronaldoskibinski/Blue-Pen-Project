@@ -32,7 +32,6 @@ export const MeEntregaEla = (data = [], op,compara=null) => {
                 if(data[i] === compara){
                     resultado=data[i]
                 }
-
             }   
             return resultado ? console.log(resultado) : console.log("Cade minha caneta azul?");
         }
